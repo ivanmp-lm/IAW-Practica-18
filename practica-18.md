@@ -8,7 +8,7 @@ description: >-
 
 **Todo el contenido utilizado para esta práctica ha salido del siguiente repositorio de GitHub:** 
 
-{% embed url="https://github.com/josejuansanchez/co2-celia" %}
+**[https://github.com/josejuansanchez/co2-celia]
 
 Datos de acceso:
 
