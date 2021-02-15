@@ -105,7 +105,7 @@ $ sudo docker-compose up -d
 
 Y se accederá a la ip pública de la máquina junto con el puerto de Grafana \(3000\):
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](https://i.ibb.co/MVt17gF/image-47.png)
 
 Para acceder al panel de control se utilizarán los siguientes datos de acceso:
 
@@ -114,7 +114,7 @@ Para acceder al panel de control se utilizarán los siguientes datos de acceso:
 
 Al iniciar sesión por primera vez, Grafana pedirá cambiar la contraseña por defecto, en mi caso seguirá igual. En la vista principal, se pulsará en el icono de los cuatro cuadrados \(Dashboards\) y en "Manage":
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](https://i.ibb.co/frFccC4/image-45.png)
 
 Este será el dashboard creado junto con el contenedor de Docker, sus datos salen de un archivo ".json" incluido en el repositorio y referenciado en el archivo Compose para montarlo en la carpeta correspondiente de Grafana. Se seleccionará y nos mostrará dos gráficos que aparecen vacíos.
 
@@ -131,4 +131,4 @@ Con el segundo comando se hará exactamente lo mismo, y después del parámetro 
 
 Debería quedar algo así tras introducir varios datos:
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](https://i.ibb.co/nz8Jt8n/image-46.png)
