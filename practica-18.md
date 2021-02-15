@@ -16,6 +16,7 @@ Datos de acceso:
 * Usuario: admin
 * Clave: admin
 
+
 Se creará una máquina en Amazon Web Services cuyo propósito será almacenar gráficas con los datos atmosféricos \(en concreto los niveles de CO2\) del aula número 22 del IES Celia Viñas.
 
 Se implementarán los cuatro servicios utilizando Docker Compose. El archivo utilizado para ello contiene lo siguiente:
